@@ -1,5 +1,5 @@
 ---
-title: "Armoured Core 6"
+title: "Armored Core 6"
 date: 2023-10-15T17:13:23+02:00
 weight: 0
 albumthumb: "Armored Core 6/Danger Birb.png"
