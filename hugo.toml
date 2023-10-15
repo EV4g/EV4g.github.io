@@ -21,3 +21,4 @@ theme = 'autophugo'
     #taxonomies_links = false
 
     full_resize_method = "none"
+    favicon = "https://avatars.githubusercontent.com/u/49408883?s=48&v=4"
