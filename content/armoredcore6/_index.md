@@ -15,4 +15,7 @@ resources:
 - src: "armoredcore6/steely boi.png"
   phototitle: "Steel Haze"
   description: "Rusty"
+- src: "armoredcore6/steely boi alt.png"
+  phototitle: "Steel Haze alternative colour scheme"
+  description: "Alternative colour scheme for Steel Haze, using the EVA-01 colours."
 ---
