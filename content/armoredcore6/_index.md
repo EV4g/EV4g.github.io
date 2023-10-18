@@ -18,4 +18,7 @@ resources:
 - src: "armoredcore6/steely boi alt.png"
   phototitle: "Steel Haze alternative colour scheme"
   description: "Alternative colour scheme for Steel Haze, using the EVA-01 colours."
+- src: "armoredcore6/steely boi spebo.png"
+  phototitle: "Steel Haze alternative colour scheme 2"
+  description: "Alternative colour scheme for Steel Haze, using the white-yellow-black colour scheme I used during the game."
 ---
