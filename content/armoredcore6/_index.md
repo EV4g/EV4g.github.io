@@ -21,4 +21,7 @@ resources:
 - src: "armoredcore6/steely boi spebo.png"
   phototitle: "Steel Haze alternative colour scheme 2"
   description: "Alternative colour scheme for Steel Haze, using the white-yellow-black colour scheme I used during the game."
+- src: "armoredcore6/PB-01.png"
+  phototitle: "PB-01"
+  description: "Dual Etsujin with an Earshot and a Pilebunker."
 ---
